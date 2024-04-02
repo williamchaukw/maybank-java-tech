@@ -1,0 +1,34 @@
+2024-04-02 17:06:56 [http-nio-8080-exec-1] INFO  c.k.M.Interceptor.LoggingInterceptor - Request=
+2024-04-02 17:06:57 [http-nio-8080-exec-1] INFO  c.k.M.Interceptor.LoggingInterceptor - Response status=200
+2024-04-02 17:09:43 [http-nio-8080-exec-1] INFO  c.k.M.Interceptor.LoggingInterceptor - Request URL=http://localhost:8080/getQuotes
+2024-04-02 17:09:43 [http-nio-8080-exec-1] INFO  c.k.M.Interceptor.LoggingInterceptor - Request=
+2024-04-02 17:09:44 [http-nio-8080-exec-1] INFO  c.k.M.Interceptor.LoggingInterceptor - Response=[]
+2024-04-02 17:11:49 [http-nio-8080-exec-5] INFO  c.k.M.Interceptor.LoggingInterceptor - Request URL=http://localhost:8080/error
+2024-04-02 17:11:53 [http-nio-8080-exec-6] INFO  c.k.M.Interceptor.LoggingInterceptor - Request URL=http://localhost:8080/updateClient/najib
+2024-04-02 17:11:53 [http-nio-8080-exec-6] INFO  c.k.M.Interceptor.LoggingInterceptor - Request URL=http://localhost:8080/error
+2024-04-02 17:15:42 [http-nio-8080-exec-1] INFO  c.k.M.Interceptor.LoggingInterceptor - Request URL=http://localhost:8080/updateClient/najib
+2024-04-02 17:15:42 [http-nio-8080-exec-1] INFO  c.k.M.Interceptor.LoggingInterceptor - Request=
+2024-04-02 17:15:43 [http-nio-8080-exec-1] INFO  c.k.M.Controller.ClientController - Request param: username=najib, name=Najib Gor, area=Terrenganu 
+2024-04-02 17:15:43 [http-nio-8080-exec-1] INFO  c.k.M.Interceptor.LoggingInterceptor - Response=[]
+2024-04-02 17:36:41 [http-nio-8080-exec-2] INFO  c.k.M.Interceptor.LoggingInterceptor - Request URL=http://localhost:8080/error
+2024-04-02 17:36:41 [http-nio-8080-exec-2] INFO  c.k.M.Interceptor.LoggingInterceptor - Request=
+2024-04-02 17:36:42 [http-nio-8080-exec-2] INFO  c.k.M.Interceptor.LoggingInterceptor - Response=[]
+2024-04-02 17:44:35 [http-nio-8080-exec-1] INFO  c.k.M.Interceptor.LoggingInterceptor - Request URL=http://localhost:8080/updateClient/najib
+2024-04-02 17:47:46 [http-nio-8080-exec-1] INFO  c.k.M.Interceptor.LoggingInterceptor - Request URL=http://localhost:8080/updateClient/najib
+2024-04-02 17:47:46 [http-nio-8080-exec-1] INFO  c.k.M.Controller.ClientController - Request param: username=najib, name=Najib Gor, area=Terrenganu 
+2024-04-02 17:47:46 [http-nio-8080-exec-1] INFO  c.k.M.Interceptor.LoggingInterceptor - Response status=401
+2024-04-02 17:47:46 [http-nio-8080-exec-1] INFO  c.k.M.Interceptor.LoggingInterceptor - Request URL=http://localhost:8080/error
+2024-04-02 17:47:46 [http-nio-8080-exec-1] INFO  c.k.M.Interceptor.LoggingInterceptor - Response status=401
+2024-04-02 17:48:17 [http-nio-8080-exec-4] INFO  c.k.M.Interceptor.LoggingInterceptor - Request URL=http://localhost:8080/updateClient/najib
+2024-04-02 17:48:17 [http-nio-8080-exec-4] INFO  c.k.M.Controller.ClientController - Request param: username=najib, name=Najib Gor, area=Terrenganu 
+2024-04-02 17:48:17 [http-nio-8080-exec-4] INFO  c.k.M.Interceptor.LoggingInterceptor - Response status=200
+2024-04-02 17:48:24 [http-nio-8080-exec-6] INFO  c.k.M.Interceptor.LoggingInterceptor - Request URL=http://localhost:8080/updateClient/najib
+2024-04-02 17:48:24 [http-nio-8080-exec-6] INFO  c.k.M.Controller.ClientController - Request param: username=najib, name=Najib Gor, area=Terrenganu 
+2024-04-02 17:48:25 [http-nio-8080-exec-6] INFO  c.k.M.Interceptor.LoggingInterceptor - Response status=401
+2024-04-02 17:48:25 [http-nio-8080-exec-6] INFO  c.k.M.Interceptor.LoggingInterceptor - Request URL=http://localhost:8080/error
+2024-04-02 17:48:25 [http-nio-8080-exec-6] INFO  c.k.M.Interceptor.LoggingInterceptor - Response status=401
+2024-04-02 17:48:53 [http-nio-8080-exec-3] INFO  c.k.M.Interceptor.LoggingInterceptor - Request URL=http://localhost:8080/updateClient/najib
+2024-04-02 17:48:53 [http-nio-8080-exec-3] INFO  c.k.M.Interceptor.LoggingInterceptor - Request URL=http://localhost:8080/error
+2024-04-02 17:50:24 [http-nio-8080-exec-5] INFO  c.k.M.Interceptor.LoggingInterceptor - Request URL=http://localhost:8080/updateClient/najib
+2024-04-02 17:50:24 [http-nio-8080-exec-5] INFO  c.k.M.Controller.ClientController - Request param: username=najib, name=Najib Gor, area=Terrenganu 
+2024-04-02 17:50:24 [http-nio-8080-exec-5] INFO  c.k.M.Interceptor.LoggingInterceptor - Response status=200
